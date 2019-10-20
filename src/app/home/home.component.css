@@ -1,0 +1,42 @@
+:root{
+	font-size: 16px;
+}
+.card-deck{
+    padding: 1%;
+}
+.card-header{
+    background-color: #80775e;
+    color: black;
+    font-size: 1rem;
+    font-style: unset;
+    letter-spacing: 0.3rem;
+}
+.card-footer{
+    background-color:#80775e;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+.card-body{
+    background-color: #d4bfa5;
+    font-size: 1rem;
+    font-style: normal;
+    color: black;
+}
+.body{
+    background-color:#a5b4c7;
+    padding-top:0;
+}
+.title{
+    background-color: #a5b4c7;
+    padding-top: 2rem;
+    letter-spacing: 2rem;
+    font-style: initial;
+    font-size: 2rem;
+    font-weight:500;
+    margin-bottom: 0;
+    color: #80775e;
+}
+.btn{
+    background-color:wheat;
+    color: black;
+}
