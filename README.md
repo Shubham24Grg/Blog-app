@@ -7,6 +7,8 @@ It is Dynamic Blog Application(frontend-part) having following functionalities:-
     & perform the activities throush simple URLs.
 3). It uses MVC(Model, View, Controller) kind of architectural design pattern.
 
+## Version
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
