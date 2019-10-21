@@ -4,8 +4,8 @@
 It is Dynamic Blog Application(frontend-part) having following functionalities:-<br>
 1). It is a typical CRUD Application, i.e. it can perform real time operations like Create, Read, Update & Delete. <br>
 2). It can interact with the backend in real time with the help of REST APIs that provides a way to interact with the backend
-    & perform the activities throush simple URLs.
-3). It uses MVC(Model, View, Controller) kind of architectural design pattern.
+    & perform the activities throush simple URLs.<br>
+3). It uses MVC(Model, View, Controller) kind of architectural design pattern.<br>
 
 ## Version
 
